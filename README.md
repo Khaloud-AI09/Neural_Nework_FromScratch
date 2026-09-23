@@ -1,7 +1,7 @@
 # Neural Network From Scratch
 A simple, educational deep learning project implementing a multilayer neural network from scratch in Python without using heavyweight libraries like TensorFlow or PyTorch.
 ## About the Project
-I built this project while learning Deep Learning to understand how neural networks actually work under the hood instead of only memorizing the theory. By implementing every component—from single artificial neurons and activation functions to backpropagation and gradient descent—I gained a hands-on understanding of how models learn from data.
+I built this project while learning Deep Learning to understand how neural networks actually work under the hood instead of only memorizing the theory. By implementing every component, from single artificial neurons and activation functions to backpropagation and gradient descent, I gained a hands-on understanding of how models learn from data.
 ## Learning Journey & Concepts Covered
 The project follows a step-by-step learning progression:
 Artificial Neuron: Inputs, weights, and bias calculation.

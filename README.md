@@ -38,9 +38,16 @@ Using a classification threshold of 0.5, the network successfully learned the co
 [0, 1] → 1
 [1, 0] → 1
 [1, 1] → 0
-## Visualizations Learning Curve: 
+## Visualizations
+
+Learning Curve
+
 A plot showing the gradual decrease in training error over the 10,000 epochs.
-## Decision Boundary: A visualization illustrating how the multilayer network successfully separates the non-linear XOR classes.
+
+Decision Boundary
+
+A visualization showing how the multilayer network separates the non-linear XOR classes.
+
 ## Technologies Used
 Python (Core language), Math Module (Standard library for mathematical operations), Matplotlib (For plotting learning curves and decision boundaries)
 ## What I Learned

@@ -11,6 +11,7 @@ Limitations: Discovering why a single perceptron cannot learn the XOR function b
 Multilayer Neural Network: Building a network with 2 inputs, 2 hidden neurons, and 1 output neuron.
 Training Mechanics: Manual implementation of forward propagation, loss calculation, backpropagation, and gradient descent.
 ## Project Structure
+```text
 neural-network-from-scratch/
 ├── 01_neuron.py
 ├── 02_activation_functions.py
@@ -25,6 +26,7 @@ neural-network-from-scratch/
 ├── 11_visualization.py
 ├── 12_decision_boundary.py
 └── README.md
+```
 ## XOR Experiment and Results
 I trained the multilayer neural network on the XOR problem for 10,000 epochs.
 [0, 0] → 0.0189
@@ -41,7 +43,7 @@ A plot showing the gradual decrease in training error over the 10,000 epochs.
 ## Decision Boundary: A visualization illustrating how the multilayer network successfully separates the non-linear XOR classes.
 ## Technologies Used
 Python (Core language), Math Module (Standard library for mathematical operations), Matplotlib (For plotting learning curves and decision boundaries)
-# What I Learned
+## What I Learned
 Writing a neural network from scratch clarifies the chain rule and how errors propagate backward through hidden layers.
 Experiencing the failure of a single perceptron on the XOR gate provided concrete appreciation for why hidden layers are necessary in deep learning.
 Implementing gradient descent manually reinforced how weight updates reduce loss over time.
